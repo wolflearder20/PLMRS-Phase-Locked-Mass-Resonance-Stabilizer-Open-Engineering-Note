@@ -118,9 +118,10 @@ Minimal v1.0 layout:
   Non-normative concept note describing the PLMRS idea, components, and modeling directions.
 
   ### Research Framing (Non-Deployable)
+  
 - `docs/PLMRS_Testable_Claim_v1.0.md`
 - The hypothesis stated in measurable terms. (no design/sizing)
-- 
+  
 - `docs/PLMRS_Validation_Ladder_v1.0.md`
 - Gated pathway (STOP conditions) to prevent irresponsible deployment.
 
