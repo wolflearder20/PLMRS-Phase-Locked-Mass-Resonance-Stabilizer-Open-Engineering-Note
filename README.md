@@ -102,6 +102,9 @@ Minimal v1.0 layout:
 
 - `docs/PLMRS_Open_Release_and_Liability_v1.0.md`  
   Full text of the open release, scope, liability, and licensing guidance.
+ 
+  - `docs/PLMRS_Engineering_Note_v1.0.md`
+    Non-normative concept note describing the PLMRS idea, components, and modeling directions.
 
 - `LICENSE`  
   Apache License, Version 2.0.
