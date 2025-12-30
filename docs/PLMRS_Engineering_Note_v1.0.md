@@ -238,31 +238,16 @@ The \*\*strength and nature of the coupling\*\* is critical:
 
 \## 3. Modeling / analysis directions (sketches only)
 
+This section is **not** a recipe or design method. It describes possible research directions only. These are not design procedures, do not imply safety or code compliance, and must not be used as the basis for real-world design without full, independent engineering development and review.
 
-
-This section is \*\*not\*\* a recipe or design method. It simply points to plausible lines of investigation.
-
-This section suggests **possible research directions only**.  
-These are **not** design procedures, do **not** imply safety or code compliance, and must **not** be used as the basis for real-world design without full, independent engineering development and review.
-
-
-
-
-\### 3.1 Simplified 1D / 2D models
-
-
+### 3.1 Simplified 1D / 2D models
 
 Engineers could start with:
 
+- Single-degree-of-freedom (SDOF) primary system,
+- augmented by multiple secondary SDOF oscillators coupled at the base.
 
-
-\- Single-degree-of-freedom (SDOF) primary system,
-
-\- augmented by multiple secondary SDOF oscillators coupled at the base.
-
-
-
-Questions to explore:
+\Questions to explore:
 
 
 
@@ -387,6 +372,7 @@ If you extend this concept, you are encouraged to:
 
 
 \_End of PLMRS Engineering Concept Note v1.0\_
+
 
 
 
